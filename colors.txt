@@ -3,3 +3,6 @@ blue
 yellow
 brown
 purple
+gray
+black
+white
