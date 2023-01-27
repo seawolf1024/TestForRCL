@@ -1,0 +1,4 @@
+hamburger
+chips
+rice
+milk
